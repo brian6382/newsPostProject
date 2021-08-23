@@ -11,3 +11,4 @@ public interface UserDao {
     void updateUser(User user, String name, String position,String role,int departmentId);
     void clearAllUsers();
 }
+1
