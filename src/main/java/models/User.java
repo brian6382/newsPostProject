@@ -3,7 +3,7 @@ package models;
 import java.util.Objects;
 
 public class User {
-  //id, name, position, role, departmentID
+  id, name, position, role, departmentID
     private int id;
     private String name;
     private String position;
