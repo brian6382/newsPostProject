@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/brian6382/newsPostProject.svg?style=svg)](https://circleci.com/gh/brian6382/NewsPortal)
 
-# [NewsPortal ](https://github.com/brian6382/NewsPortal)
+# [NewsPortal ](https://github.com/brian6382/newsPostProject)
 
 Author [Brian Kulei](https://github.com/brian6382)
 
