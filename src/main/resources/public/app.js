@@ -41,7 +41,7 @@ app.controller("appcontrol",function($scope,$http,$timeout){
           $scope.department_desc="";
           }
         }
-aa
+
         $scope.newUser=function(){
 
           let users = $scope.users.map(u=>u.name);
