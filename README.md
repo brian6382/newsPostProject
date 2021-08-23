@@ -81,7 +81,7 @@ each department list items has options to view all users in that department, or 
 On clicking this tags, the user can click the departments tab to go back the main departments listing, from which they
 can narrow down to another departments users or news.
 ## Setup Instructions
-Fork the project on github [NewsPortal ](https://github.com/brian6382/NewsPortal), then clone it to your local repo.
+Fork the project on github [NewsPortal ](https://github.com/brian6382/newsPostProject), then clone it to your local repo.
 
 ## Technology used
  - Java
